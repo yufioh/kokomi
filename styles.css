@@ -163,7 +163,7 @@ i.fas.fa-play{
     grid-template-columns: 1fr 2fr;
     background: url(sango.png) center center/cover no-repeat;
     background-blend-mode: screen;
-    margin-top: 50%;
+    margin-top: 235px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     border-radius: 10px;
     z-index: 7;
@@ -266,13 +266,19 @@ progress[value] {
   height: 10px;
 }
 progress[value]::-webkit-progress-bar {
-  /* style rules */
+  accent-color: #C3F25C;
+  width: 95%;
+  height: 10px;
 }
 progress[value]::-webkit-progress-value {
-  /* style rules */
+  accent-color: #C3F25C;
+  width: 95%;
+  height: 10px;
 }
 progress[value]::-moz-progress-bar {
-  /* style rules */
+  accent-color: #C3F25C;
+  width: 95%;
+  height: 10px;
 }
 
 
