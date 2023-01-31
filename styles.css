@@ -148,6 +148,7 @@ i.fas.fa-play{
 
 #menu-div {
   position: relative;
+  margin: 23vh auto 0;
   margin: auto;
   flex-direction: column;
   width: 600px;
@@ -163,7 +164,6 @@ i.fas.fa-play{
     grid-template-columns: 1fr 2fr;
     background: url(sango.png) center center/cover no-repeat;
     background-blend-mode: screen;
-    margin-top: 186px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     border-radius: 10px;
     z-index: 7;
