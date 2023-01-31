@@ -67,7 +67,7 @@ body {
 
 #header {
   position: relative;
-  background-color: rgb(223, 160, 189);
+  background-color: rgba(223, 160, 189, 0.70);
   box-shadow: 0 0 20px rgba(95, 66, 80, 0.75);
   color: white;
   padding: 0 3em;
@@ -86,7 +86,7 @@ body {
     left: 0;
     right: 0;
     z-index: 10;
-    background-color: rgb(223, 160, 189);
+    background-color: rgba(223, 160, 189, 0.70);
     box-shadow: 0 0 2.08vh rgba(95, 66, 80, 0.75);
     box-sizing: border-box;
     padding-right: 1.6vh;
